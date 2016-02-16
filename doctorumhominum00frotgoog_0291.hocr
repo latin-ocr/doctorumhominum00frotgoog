@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorumhominum00frotgoog/doctorumhominum00frotgoog_0291.png"; bbox 0 0 2620 4938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 1220 1131 1394">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 1220 1131 1394">
+     <span class='ocr_line' id='line_1_1' title="bbox 190 1220 1131 1394; baseline 0.027 -45"><span class='ocrx_word' id='word_1_1' title='bbox 190 1275 566 1394; x_wconf 63' lang='lat' dir='ltr'><strong>nocwonum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 614 1220 962 1374; x_wconf 66' lang='lat' dir='ltr'>HOM1NUM‘</span> <span class='ocrx_word' id='word_1_3' title='bbox 1087 1281 1131 1304; x_wconf 68' lang='grc'>“</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 313 1467 841 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 313 1467 841 1660">
+     <span class='ocr_line' id='line_1_2' title="bbox 313 1467 841 1660; baseline 0.023 -51"><span class='ocrx_word' id='word_1_4' title='bbox 313 1517 812 1660; x_wconf 61' lang='lat' dir='ltr'><strong>commum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 838 1467 841 1478; x_wconf 58' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 9 1939 1246 2452">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 9 1881 1246 2452">
+     <span class='ocr_line' id='line_1_3' title="bbox 9 1939 1246 2134; baseline 0.015 -28"><span class='ocrx_word' id='word_1_6' title='bbox 9 1967 410 2126; x_wconf 67' lang='lat' dir='ltr'><strong>WETERUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 431 1939 436 1949; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 454 1977 1138 2134; x_wconf 73' lang='lat' dir='ltr'>HISTORIOORUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1238 2097 1246 2124; x_wconf 72' lang='grc'><em>,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 9 2175 1183 2452; baseline 0.014 -65"><span class='ocrx_word' id='word_1_10' title='bbox 9 2175 14 2318; x_wconf 55' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 253 2252 860 2452; x_wconf 51' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1180 2256 1183 2272; x_wconf 85' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1314 4938">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1314 4938">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1314 4938; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1314 4938; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
